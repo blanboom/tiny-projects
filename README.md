@@ -15,26 +15,26 @@
 
 ## 操作系统
 
-* [Kernels 101 – Let’s write a Kernel - Arjun Sreedharan](https://arjunsreedharan.org/post/82710718100/kernels-101-lets-write-a-kernel)
-* [Writing an OS in Rust](https://os.phil-opp.com/)
-* [Simple-XX/SimpleKernel: Simple kernel for learning operating systems. 用于学习操作系统的简单内核](https://github.com/Simple-XX/SimpleKernel)
-* [s-matyukevich/raspberry-pi-os: Learning operating system development using Linux kernel and Raspberry Pi](https://github.com/s-matyukevich/raspberry-pi-os)
-* [Making an OS (x86) Chapter 1 - CPU, Assembly, Booting - YouTube](https://www.youtube.com/watch?v=MwPjvJ9ulSc)
-* [ranxian/xv6-chinese: 中文版的 MIT xv6 文档](https://github.com/ranxian/xv6-chinese)
-* [rustcc/writing-an-os-in-rust: 《使用Rust编写操作系统》](https://github.com/rustcc/writing-an-os-in-rust)
-* [babbleberry/rpi4-osdev: Tutorial: Writing a "bare metal" operating system for Raspberry Pi 4](https://github.com/babbleberry/rpi4-osdev)
-* [CN-GuoZiyang/Moonix: Yet another RISC-V OS in C](https://github.com/cn-guoziyang/moonix)
-* [rust-embedded/rust-raspberrypi-OS-tutorials: :books: Learn to write an embedded OS in Rust :crab:](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
-* [30天自制操作系统](https://book.douban.com/subject/11530329//)
-
+* 项目
+   * [Kernels 101 – Let’s write a Kernel - Arjun Sreedharan](https://arjunsreedharan.org/post/82710718100/kernels-101-lets-write-a-kernel)
+   * [Writing an OS in Rust](https://os.phil-opp.com/)
+   * [Simple-XX/SimpleKernel: Simple kernel for learning operating systems. 用于学习操作系统的简单内核](https://github.com/Simple-XX/SimpleKernel)
+   * [s-matyukevich/raspberry-pi-os: Learning operating system development using Linux kernel and Raspberry Pi](https://github.com/s-matyukevich/raspberry-pi-os)
+   * [Making an OS (x86) Chapter 1 - CPU, Assembly, Booting - YouTube](https://www.youtube.com/watch?v=MwPjvJ9ulSc)
+   * [ranxian/xv6-chinese: 中文版的 MIT xv6 文档](https://github.com/ranxian/xv6-chinese)
+   * [rustcc/writing-an-os-in-rust: 《使用Rust编写操作系统》](https://github.com/rustcc/writing-an-os-in-rust)
+   * [babbleberry/rpi4-osdev: Tutorial: Writing a "bare metal" operating system for Raspberry Pi 4](https://github.com/babbleberry/rpi4-osdev)
+   * [CN-GuoZiyang/Moonix: Yet another RISC-V OS in C](https://github.com/cn-guoziyang/moonix)
+   * [rust-embedded/rust-raspberrypi-OS-tutorials: :books: Learn to write an embedded OS in Rust :crab:](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
+   * [30天自制操作系统](https://book.douban.com/subject/11530329/)
 * 相关资源
     * [OSDev Wiki](https://wiki.osdev.org/Main%5C_Page)
 
 ## 游戏、游戏机与模拟器
 
-* [FPGA入门指南 用Verilog HDL语言设计计算机系统](https://book.douban.com/subject/35388347/)：使用 FPGA 制作 Game Boy
-* [Bigboy: Writing a Gameboy Emulator - Dandigit](https://dandigit.com/posts/bigboy-writing-a-gameboy-emulator)
-
+* 项目
+   * [FPGA入门指南 用Verilog HDL语言设计计算机系统](https://book.douban.com/subject/35388347/)：使用 FPGA 制作 Game Boy 游戏机
+   * [Bigboy: Writing a Gameboy Emulator - Dandigit](https://dandigit.com/posts/bigboy-writing-a-gameboy-emulator)
 * 相关资源
     * [6502.org: The 6502 Microprocessor Resource](http://6502.org/)
     * [NESdev Wiki](https://www.nesdev.org/wiki/Nesdev\_Wiki)
