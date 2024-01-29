@@ -30,6 +30,26 @@
 * 相关资源
     * [OSDev Wiki](https://wiki.osdev.org/Main%5C_Page)
 
+## 游戏、游戏机与模拟器
+
+* [FPGA入门指南 用Verilog HDL语言设计计算机系统](https://book.douban.com/subject/35388347/)：使用 FPGA 制作 Game Boy
+* [Bigboy: Writing a Gameboy Emulator - Dandigit](https://dandigit.com/posts/bigboy-writing-a-gameboy-emulator)
+
+* 相关资源
+    * [6502.org: The 6502 Microprocessor Resource](http://6502.org/)
+    * [NESdev Wiki](https://www.nesdev.org/wiki/Nesdev\_Wiki)
+    * [sehugg/awesome-8bitgamedev: A curated list of awesome resources for 8-bit retro game development](https://github.com/sehugg/awesome-8bitgamedev)
+    * [gbdev/awesome-gbdev: A curated list of Game Boy development resources such as tools, docs, emulators, related projects and open-source ROMs.](https://github.com/gbdev/awesome-gbdev)
+    * [gbadev-org/awesome-gbadev: A curated list of Game Boy Advance development resources](https://github.com/gbadev-org/awesome-gbadev)
+    * [command-tab/awesome-n64-development: A curated list of Nintendo 64 development resources including toolchains, documentation, emulators, example code, and more](https://github.com/command-tab/awesome-n64-development)
+
+## CPU
+
+* [CPU自制入门](https://book.douban.com/subject/25780703//)
+* [自己动手写CPU](https://book.douban.com/subject/25960657/)
+* [James Stanley - SCAMP is alive](https://incoherency.co.uk/blog/stories/scamp-lives.html)
+* [Pineapple One](https://pineapple-one.github.io/): Open source 32 bit RISC-V CPU that you can make at home
+
 ## Bootloader
 
 * [From Zero to main(): How to Write a Bootloader from Scratch | Interrupt](https://interrupt.memfault.com/blog/how-to-write-a-bootloader-from-scratch)
@@ -41,27 +61,6 @@
 ## 文件系统
 
 * [Writing a file system from scratch in Rust · carlosgaldino](https://blog.carlosgaldino.com/writing-a-file-system-from-scratch-in-rust.html)
-
-## CPU
-
-* [CPU自制入门](https://book.douban.com/subject/25780703//)
-* [自己动手写CPU](https://book.douban.com/subject/25960657/)
-* [James Stanley - SCAMP is alive](https://incoherency.co.uk/blog/stories/scamp-lives.html)
-* [Pineapple One](https://pineapple-one.github.io/): Open source 32 bit RISC-V CPU that you can make at home
-
-## 游戏、游戏机与模拟器
-
-* [FPGA入门指南 用Verilog HDL语言设计计算机系统](https://book.douban.com/subject/35388347/)：使用 FPGA 制作 Game Boy
-* [Bigboy: Writing a Gameboy Emulator - Dandigit](https://dandigit.com/posts/bigboy-writing-a-gameboy-emulator)
-
-* 相关资源
-    * [6502.org: The 6502 Microprocessor Resource](http://6502.org/)
-    * [NESdev Wiki](https://www.nesdev.org/wiki/Nesdev\_Wiki)
-    * [sehugg/awesome-8bitgamedev: A curated list of awesome resources for 8-bit retro game development](https://github.com/sehugg/awesome-8bitgamedev#6502)
-    * [gbdev/awesome-gbdev: A curated list of Game Boy development resources such as tools, docs, emulators, related projects and open-source ROMs.](https://github.com/gbdev/awesome-gbdev)
-    * [gbadev-org/awesome-gbadev: A curated list of Game Boy Advance development resources](https://github.com/gbadev-org/awesome-gbadev)
-    * [command-tab/awesome-n64-development: A curated list of Nintendo 64 development resources including toolchains, documentation, emulators, example code, and more](https://github.com/command-tab/awesome-n64-development)
-  
 
 ## 编程语言、编译器
 
