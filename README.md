@@ -46,8 +46,8 @@
 
 * [CPU自制入门](https://book.douban.com/subject/25780703//)
 * [自己动手写CPU](https://book.douban.com/subject/25960657/)
-*  [James Stanley - SCAMP is alive](https://incoherency.co.uk/blog/stories/scamp-lives.html) 自制 CPU
-* [Pineapple One](https://pineapple-one.github.io/)  Open source 32 bit RISC-V CPU that you can make at home
+* [James Stanley - SCAMP is alive](https://incoherency.co.uk/blog/stories/scamp-lives.html)
+* [Pineapple One](https://pineapple-one.github.io/): Open source 32 bit RISC-V CPU that you can make at home
 
 ## 游戏、游戏机与模拟器
 
